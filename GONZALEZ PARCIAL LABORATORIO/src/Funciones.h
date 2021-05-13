@@ -3,7 +3,8 @@
 #ifndef FUNCIONES_H_
 #define FUNCIONES_H_
 
-#include"Estructura.h"
-#include"Estructura2.h"
+
+#include"Servicio.h"
+#include"Trabajo.h"
 
 #endif /* FUNCIONES_H_ */
